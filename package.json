@@ -1,0 +1,11 @@
+{
+  "name": "BuildServer",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "koa": "^1.2.0"
+  }
+}
